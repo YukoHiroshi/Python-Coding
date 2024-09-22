@@ -1,0 +1,5 @@
+text= "Krishna"
+print("krishna")
+revtext=text[::-1]
+text=revtext
+print(text)
